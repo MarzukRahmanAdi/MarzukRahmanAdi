@@ -20,15 +20,6 @@ const Adi = {
 };
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=IronSharkAdi&hide=contribs,prs&count_private=true&show_icons=true)
-
-<a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
-</a>
-<a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
-</a>
-
 
 ![New Project (1)](https://user-images.githubusercontent.com/59229608/101164787-c92e9b80-365f-11eb-894a-d94d4f39f61b.png)
 
