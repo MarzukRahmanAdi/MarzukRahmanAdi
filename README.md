@@ -13,9 +13,12 @@ const Adi = {
             js: ["Vue", "React", "Jquery"],
             css: ["bootstrap", "sass"]
         },
-        backEnd: ["Node.js", "Express.js" ,"Django", "Flask" , "Python" , "Json" ,],
+        backEnd: ["Node.js", "Express.js" ,"Django", "Flask" , "Python" , "Json" ],
         databases: ["MySql", "MongoDB" , "Firebase"],
-        expertise : "MERN"
+        expertise : "MERN",
+        game dev : "Unreal Engine",
+        Software dev : "Qt5" , "Python" , "Electron.js",
+        Competitive Programming : "C++" , "Javascript"
     }
 };
 ```
