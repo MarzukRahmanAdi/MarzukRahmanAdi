@@ -16,9 +16,9 @@ const Adi = {
         backEnd: ["Node.js", "Express.js" ,"Django", "Flask" , "Python" , "Json" ],
         databases: ["MySql", "MongoDB" , "Firebase"],
         expertise : "MERN",
-        game dev : "Unreal Engine",
-        Software dev : "Qt5" , "Python" , "Electron.js",
-        Competitive Programming : "C++" , "Javascript"
+        Game_Dev : "Unreal Engine",
+        Software_Dev : "Qt5" , "Python" , "Electron.js",
+        Competitive_Programming : "C++" , "Javascript"
     }
 };
 ```
