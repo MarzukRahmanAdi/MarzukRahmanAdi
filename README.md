@@ -7,16 +7,17 @@ Hi there, thanks for stopping by, this is **Adi (ISA)**.
 ```javascript
 const Adi = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game dev"],
+    askMeAbout: ["Web dev", "Tech", "Game dev", "Software dev"],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Jquery"],
-            css: ["bootstrap", "sass"]
+            css: ["Bootstrap", "Tailwind"]
         },
-        backEnd: ["Node.js", "Express.js" ,"Django", "Flask" , "Python" , "Json" ],
+        backEnd: ["Node.js", "Express.js" ,"Django", "Flask" , "Python" ],
         databases: ["MySql", "MongoDB" , "Firebase"],
-        expertise : "MERN",
+        expertise : "MERN dev",
         Game_Dev : "Unreal Engine",
+        Mobile_App_Dev : "Flutter" , "React Native",
         Software_Dev : "Qt5" , "Python" , "Electron.js",
         Competitive_Programming : "C++" , "Javascript"
     }
