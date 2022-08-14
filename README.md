@@ -5,19 +5,19 @@
 ```javascript
 const Adi = {
     pronouns: "He" | "Him",
-    askMeAbout: ["Web dev", "Tech", "Game dev", "Software dev"],
+    askMeAbout: ["Web dev", "App dev", "Game dev", "Software dev"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Jquery"],
-            css: ["Bootstrap", "Tailwind"]
+            js: ["React", "Jquery"],
+            css: ["Bootstrap", "Tailwind", "Material Ui", "Mantine Dev"]
         },
-        backEnd: ["Node.js", "Express.js" ,"Django", "Flask" , "Python" ],
+        backEnd: ["Node.js", "Express.js" ,"Django", "Flask" , "Python", "Golang" ],
         databases: ["MySql", "MongoDB" , "Firebase"],
         expertise : "MERN dev",
         Game_Dev : "Unreal Engine",
-        Mobile_App_Dev : "Flutter" , "React Native",
-        Software_Dev : "Qt5" , "Python" , "Electron.js",
-        Competitive_Programming : "C++" , "Javascript"
+        Mobile_App_Dev : "Flutter" , "Java",
+        Software_Dev : "Qt5" , ".Net" , "Electron.js",
+        Competitive_Programming : "C++" , "Golang"
     }
 };
 ```
