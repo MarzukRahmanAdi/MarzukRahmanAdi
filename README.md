@@ -8,16 +8,16 @@ const Adi = {
     askMeAbout: ["Web dev", "App dev", "Game dev", "Software dev"],
     technologies: {
         frontEnd: {
-            js: ["React", "Jquery"],
-            css: ["Bootstrap", "Tailwind", "Material Ui", "Mantine Dev"]
+            js: ["Reactjs", "Nextjs"],
+            css: ["Bootstrap", "Tailwind CSS", "Material Ui", "Mantine Dev"]
         },
-        backEnd: ["Node.js", "Express.js" ,"Django", "Flask" , "Python", "Golang" ],
+        backEnd: ["Node.js", "Express.js" ,"Django", "Nestjs", "Golang" ],
         databases: ["MySql", "MongoDB" , "Firebase"],
-        expertise : "MERN dev",
-        Game_Dev : "Unreal Engine",
-        Mobile_App_Dev : "Flutter" , "Java",
-        Software_Dev : "Qt5" , ".Net" , "Electron.js",
-        Competitive_Programming : "C++" , "Golang"
+        expertise : ["Nextjs dev", "Flutter dev"],
+        Game_Dev : "Unity",
+        Mobile_App_Dev : "Flutter",
+        Software_Dev : ["Qt5" , "Flutter" , "Electron.js"],
+        Competitive_Programming : "C++"
     }
 };
 ```
