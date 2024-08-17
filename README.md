@@ -4,20 +4,23 @@
 
 ```javascript
 const Adi = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["Web dev", "App dev", "Game dev", "Software dev"],
+    askMeAbout: ['Web dev', 'App dev', 'Software dev'],
     technologies: {
         frontEnd: {
-            js: ["Reactjs", "Nextjs"],
-            css: ["Bootstrap", "Tailwind CSS", "Material Ui", "Mantine Dev"]
+            js: ['Reactjs', 'Nextjs', 'Vuejs', 'Nuxtjs', 'Svelte', 'Sveltekit'],
+            css: ['Bootstrap', 'Tailwind CSS', 'Material UI', 'Mantine Dev', 'UIkit', 'shadcn/ui', 'Flowbite', 'Daisy UI']
         },
-        backEnd: ["Node.js", "Express.js" , "Nestjs", "Laravel" ],
-        databases: ["MySql", "MongoDB" , "PostgreSQL", "SQLite", "Firebase"],
-        expertise : ["Nextjs dev", "Flutter dev", "Laravel dev", "Nodejs dev"],
-        Game_Dev : "Unity",
-        Mobile_App_Dev : "Flutter",
-        Software_Dev : ["Qt5" , "Flutter" , "Electron.js"],
-        Competitive_Programming : "C++"
+        backEnd: ['Node.js', 'Express.js', 'Nestjs', 'Laravel', 'Symfony PHP', 'Adonisjs', 'Sailjs'],
+        databases: ['MongoDB', 'PostgreSQL', 'SQLite', 'Firebase', 'NoSQL'],
+        mobileAppDev: ['Flutter', 'Kotlin (Basic)', 'Reactjs'],
+        softwareDev: ['Qt5', 'Flutter', 'Electron.js', 'JavaFX', 'WPF', '.NET MAUI'],
+        competitiveProgramming: 'C++',
+        expertise: [
+            'Backend development',
+            'Business logic writing',
+            'Good front-end layout and UX building',
+            'Using appropriate language for specific tasks (e.g., PHP for backend, C++ for complex computing tasks pipelined with PHP)'
+        ]
     }
 };
 ```
