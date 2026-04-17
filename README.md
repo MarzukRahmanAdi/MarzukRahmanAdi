@@ -13,7 +13,6 @@ Full Stack Developer focused on distributed architecture, scalable APIs, and clo
 [![Portfolio](https://img.shields.io/badge/Portfolio-techguyadi.com-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://techguyadi.com)
 [![Email](https://img.shields.io/badge/Email-hello@techguyadi.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@techguyadi.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MarzukRahmanAdi-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarzukRahmanAdi)
-[![Profile views](https://komarev.com/ghpvc/?username=MarzukRahmanAdi&style=for-the-badge&color=16a34a)](https://github.com/MarzukRahmanAdi)
 
 </div>
 
@@ -34,6 +33,9 @@ Full Stack Developer focused on distributed architecture, scalable APIs, and clo
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-0f172a?style=for-the-badge&logo=nuxtdotjs&logoColor=00dc82)
 ![Svelte](https://img.shields.io/badge/Svelte-0f172a?style=for-the-badge&logo=svelte&logoColor=ff3e00)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-0f172a?style=for-the-badge&logo=svelte&logoColor=ff3e00)
+
+### Mobile
+
 ![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
 
 ### Backend
@@ -63,20 +65,19 @@ Full Stack Developer focused on distributed architecture, scalable APIs, and clo
 ![Azure](https://img.shields.io/badge/Azure-0f172a?style=for-the-badge&logo=microsoftazure&logoColor=0078d4)
 ![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=fcc624)
 
-## Expertise
+## What I Bring
 
 ```text
-Full-stack web development
-Mobile application development
-Backend architecture and distributed system design
-API design and performance optimization
-Technology selection based on real system requirements
+Backend systems        -> scalable APIs, queues, distributed workers
+Performance mindset    -> query optimization, reliability, load handling
+Full-stack execution   -> web platforms and mobile apps from architecture to delivery
+Technical judgment     -> choosing tools based on real system constraints
 ```
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarzukRahmanAdi&show_icons=true&theme=transparent&hide_border=true&title_color=16a34a&icon_color=22c55e&text_color=cbd5e1&rank_icon=github" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarzukRahmanAdi&layout=compact&theme=transparent&hide_border=true&title_color=16a34a&text_color=cbd5e1" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=MarzukRahmanAdi&theme=transparent&hide_border=true&ring=16a34a&fire=22c55e&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub streak" />
 
 </div>
